@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Brainwash to positivity",
+    "file": "brainwash_to_positivity.json",
+    "words": [],
+    "numberOfWords": 153,
+    "selected": false
+  },
+  {
+    "name": "300 Most Difficult SAT Words",
+    "file": "300_difficult_sat_words.json",
+    "words": [],
+    "numberOfWords": 300,
+    "selected": false
+  },
+  {
+    "name": "Pokémon",
+    "file": "pokemon.json",
+    "words": [],
+    "numberOfWords": 151,
+    "selected": false
+  }
+]

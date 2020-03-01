@@ -1,0 +1,24 @@
+.btn {
+  display: inline-block;
+  padding: 0 10px;
+  font-size: 18px;
+  line-height: 20px;
+  color: #000000;
+  text-align: center;
+  vertical-align: middle;
+  background: #bbbbbb;
+  border: 0;
+  -webkit-border-radius: 0;
+  -moz-border-radius: 0;
+  border-radius: 0;
+  box-shadow: 10px 10px 0 #000000;
+  cursor: pointer;
+  margin: 0 10px;
+  &:after {
+    content: " >";
+  }
+  &.btn-delete{
+    background-color: $red;
+    color: white
+  }
+}
