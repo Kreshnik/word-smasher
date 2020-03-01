@@ -53,6 +53,9 @@ yarn lint
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
+#### Demo
+[Play Here!](https://word-smasher.sprigs.eu)
+
 ### Credits
 
 -   SFX by SubspaceAudio (https://opengameart.org/content/512-sound-effects-8-bit-style)
